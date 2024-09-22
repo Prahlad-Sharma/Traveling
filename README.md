@@ -1,18 +1,18 @@
-# [TravelYaari](https://shsarv.github.io/TravelYaari/)  <img src ="https://www.flaticon.com/svg/static/icons/svg/744/744502.svg" width="50px">
+# [Travel](https://shsarv.github.io/Travel/)  <img src ="https://www.flaticon.com/svg/static/icons/svg/744/744502.svg" width="50px">
 
 <center>
   
-![Jekyll site CI](https://github.com/shsarv/TravelYaari/workflows/Jekyll%20site%20CI/badge.svg)
-![GitHub language count](https://img.shields.io/github/languages/count/shsarv/TravelYaari)
-![](https://img.shields.io/github/repo-size/shsarv/TravelYaari)
-![](https://img.shields.io/tokei/lines/github/shsarv/TravelYaari)
-![](https://img.shields.io/github/issues-pr-closed/shsarv/TravelYaari)
-![](https://img.shields.io/github/license/shsarv/Travelyaari)
+![Jekyll site CI](https://github.com/shsarv/Travel/workflows/Jekyll%20site%20CI/badge.svg)
+![GitHub language count](https://img.shields.io/github/languages/count/shsarv/Travel)
+![](https://img.shields.io/github/repo-size/shsarv/Travel)
+![](https://img.shields.io/tokei/lines/github/shsarv/Travel)
+![](https://img.shields.io/github/issues-pr-closed/shsarv/Travel)
+![](https://img.shields.io/github/license/shsarv/Travel)
 
 </center>
 
 <br>
-This Project is Live at -----> https://shsarv.github.io/TravelYaari/
+This Project is Live at -----> https://shsarv.github.io/Travel/
 
 #### [Mentor: Pankaj Kapoor](https://github.com/pankkap)
 
@@ -36,7 +36,7 @@ This Repository contain Fullstack mini project using Front end technologies.
   
 ### Project Flow <img src ="https://www.flaticon.com/svg/static/icons/svg/648/648917.svg" width="25px">
   
-  ![](https://github.com/shsarv/TravelYaari/blob/master/TravelYaari%20development%20%20Flow.png)
+  ![](https://github.com/shsarv/Travel/blob/master/Travel%20development%20%20Flow.png)
   
   - This project was divided in to Five phases :-
   
@@ -112,9 +112,9 @@ The technologies that we have used in making this project are :
   
   <table>
   <tr>
-    <td align="center"><a href="https://github.com/shsarv"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Sarvesh Kumar Sharma</b></sub></a><br /><a href="#" title="Content">🖋</a> <a href="https://github.com/shsarv/TravelYaari/commits?author=shsarv" title="Documentation">📖</a><a href="https://github.com/shsarv/TravelYaari/commits?author=shsarv" title="Code">💻</a></td>
-   <td align="center"><a href="https://github.com/satyamjha1710"><img src="https://avatars1.githubusercontent.com/u/61418608?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Satyam Kumar jha</b></sub></a><br /><a href="https://github.com/shsarv/TravelYaari/commits?author=satyamjha1710" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/sachi42"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQG284gqwDcwKw/profile-displayphoto-shrink_800_800/0?e=1613001600&v=beta&t=ciyzyUV9JqxwQfIqCH8Q1j_VyDKbfnTWz4CAp6h-1ko" width="100px;" alt=""/><br /><sub><b>Sachi Tripathi</b></sub></a><br /><a href="https://github.com/shsarv/TravelYaari/commits?author=sachi42" title="Code">💻</a></td> 
+    <td align="center"><a href="https://github.com/shsarv"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Sarvesh Kumar Sharma</b></sub></a><br /><a href="#" title="Content">🖋</a> <a href="https://github.com/shsarv/Travel/commits?author=shsarv" title="Documentation">📖</a><a href="https://github.com/shsarv/Travel/commits?author=shsarv" title="Code">💻</a></td>
+   <td align="center"><a href="https://github.com/satyamjha1710"><img src="https://avatars1.githubusercontent.com/u/61418608?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Satyam Kumar jha</b></sub></a><br /><a href="https://github.com/shsarv/Travel/commits?author=satyamjha1710" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/sachi42"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQG284gqwDcwKw/profile-displayphoto-shrink_800_800/0?e=1613001600&v=beta&t=ciyzyUV9JqxwQfIqCH8Q1j_VyDKbfnTWz4CAp6h-1ko" width="100px;" alt=""/><br /><sub><b>Sachi Tripathi</b></sub></a><br /><a href="https://github.com/shsarv/Travel/commits?author=sachi42" title="Code">💻</a></td> 
    <tr>
     <table>
      
